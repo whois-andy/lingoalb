@@ -1,0 +1,20 @@
+{
+  "name": "LingoAlb — Mëso Gjuhë të Huaja",
+  "short_name": "LingoAlb",
+  "description": "Platforma e parë shqiptare për mësimin e gjuhëve të huaja.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#1B4FD8",
+  "orientation": "portrait-primary",
+  "lang": "sq",
+  "categories": ["education", "language"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Paneli", "url": "/dashboard", "description": "Shko te paneli kryesor" },
+    { "name": "Mëso tani", "url": "/dashboard", "description": "Fillo mësimin" }
+  ]
+}
